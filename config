@@ -1,0 +1,12 @@
+title: Blog Kirin
+author: Kirin
+email: kirin@example.com
+description: >-
+  Ruang peribadi Kirin untuk berkongsi idea, tutorial, dan cerita kehidupan.
+baseurl: "" 
+url: "https://hideaki.github.io"
+theme: minima
+
+# Sosial Media (Boleh tukar username anda)
+twitter_username: kirin_dev
+github_username:  kirin
