@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Post Pertama Kirin: Hello World!"
+date: 2026-02-01 10:00:00 +0800
+categories: peribadi
+---
+
+# Hello Dunia!
+
+Ini adalah artikel pertama saya. Saya berjaya setup blog ini di GitHub! 
+
+### Kenapa saya guna GitHub Pages?
+1. **Laju:** Hosting yang sangat responsif.
+2. **Markdown:** Senang tulis nota guna teks biasa.
+3. **Versi:** Setiap perubahan saya boleh *track* guna Git.
+
+Jumpa lagi di post akan datang!
